@@ -1,0 +1,15 @@
+:root {
+  --tile: #14233a;
+  --tile-2: #1b2d48;
+  --tile-3: #243a59;
+  --deep: #0b1626;
+  --bone: #e9edf2;
+  --bone-dim: #aeb7c4;
+  --amber: #e3a04a;
+  --amber-hi: #f0b465;
+  --tile-rgb: 20, 35, 58;
+  --deep-rgb: 11, 22, 38;
+  --bone-rgb: 233, 237, 242;
+  --amber-rgb: 227, 160, 74;
+  --line: rgba(233, 237, 242, .14);
+}
